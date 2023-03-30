@@ -3,6 +3,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thomashoareau/)
 
 - 👨‍💻 Full Stack Software Engineer & Pro Sports Bettor
-- 🌐 Crafting solutions with: `Python`, `Django`, `JavaScript`, `Next.js`, `Gatsby.js`, `SQL` and more
+- 🌐 Crafting solutions with: `Python`, `Django`, `JavaScript`, `SQL` and more
 - 🏅 Passionate about sports, finance, photography, and fitness
 - 📫 Connect with me: thomas.hoareaupro@gmail.com
